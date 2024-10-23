@@ -1,4 +1,4 @@
-# Projektname
+# TextminR Präsentationswebseite
 
 ## Beschreibung
 Dieses Projekt ist eine Webanwendung mit HTML und CSS. Der Fokus liegt auf der `index.html`-Datei und dem `style.css`-Stylesheet. Weitere Seiten für das Frontend und Backend sind geplant und werden im nächsten Commit hinzugefügt.
